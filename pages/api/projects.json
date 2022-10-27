@@ -1,37 +1,127 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
+    "name": "Cypress Dashboard",
+    "image": "/cypress-dashboard.png",
     "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "tags": ["python", "javascript", "django", "cypress", "chartjs", "github-actions"],
+    "demo": "https://cypress-html-report.herokuapp.com/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
+    "name": "Classified Data",
+    "image": "/classified-data.png",
     "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "tags": ["react", "open-street-map", "python", "django", "api"],
+    "demo": "https://classified-ads.netlify.app/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
+    "name": "Vex Anime",
+    "image": "/vexanime.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "tags": ["react", "python", "sqlite3", "beautifulsoup", "tailwind"],
+    "demo": "https://vexanime.netlify.app/"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "name": "Instagram clone",
+    "image": "/instagram.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "tags": ["python", "django", "javascript", "css"],
+    "source_code": "https://github.com/Asif-Biswas/instagram-clone",
+    "demo": "https://asifbiswas.pythonanywhere.com"
+  },
+  {
+    "id": 5,
+    "name": "E-commerce Tracker",
+    "image": "/aslpp.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "django", "chartjs", "selenium", "beautifulsoup"]
+  },
+  {
+    "id": 6,
+    "name": "ICCS",
+    "image": "/iccs.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"]
+  },
+  {
+    "id": 7,
+    "name": "Facebook clone",
+    "image": "/facebook.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/facebook-clone-backend",
+    "demo": "https://fb-cln.herokuapp.com/"
+  },
+  {
+    "id": 8,
+    "name": "Youtube clone",
+    "image": "/youtube.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/youtube-clone",
+    "demo": "https://youtube-cln.herokuapp.com/"
+  },
+  {
+    "id": 9,
+    "name": "BBC Newspaper",
+    "image": "/bbc.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/BBC-Newspaper-clone",
+    "demo": "https://bbc-cln.herokuapp.com/"
+  },
+  {
+    "id": 10,
+    "name": "OrangeRed",
+    "image": "/orangered.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/orangered-e-commerce-frontend",
+    "demo": "https://orangered.herokuapp.com/"
+  },
+  {
+    "id": 11,
+    "name": "FB Home Page",
+    "image": "/facebook.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/fb-home-page-design",
+    "demo": "https://fb-home.herokuapp.com"
+  },
+  {
+    "id": 12,
+    "name": "Cypress Cucumber",
+    "image": "/cypress.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/cypress-cucumber-automation"
+  },
+  {
+    "id": 13,
+    "name": "Wine tour",
+    "image": "/winetour.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/shahriarmehedi/tour-planner-react",
+    "demo": "https://lekkerwinetours.com/"
+  },
+  {
+    "id": 14,
+    "name": "Tour de Globe",
+    "image": "/tourde.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "source_code": "https://github.com/Asif-Biswas/tourdeglobe",
+    "demo": "https://asif-biswas.github.io/tourdeglobe/take_me_home.html"
+  },
+  {
+    "id": 14,
+    "name": "BPDB Notice",
+    "image": "/bpdb.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "react", "redux", "postgresql", "bootstrap"]
   }
 ]

@@ -3,54 +3,34 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    link: 'asif-biswas.github.io/asif',
+    href: 'https://asif-biswas.github.io/asif',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'asifbiswas85@gmail.com',
+    href: 'mailto:asifbiswas85@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'asif-biswas',
+    href: 'https://github.com/asif-biswas',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'asif-biswas',
+    href: 'https://www.linkedin.com/in/asif-biswas/',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
+    link: '@_AsifBiswas_',
     href: 'https://www.twitter.com/iamnitinr',
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
-  },
+    link: 'asif.biswas',
+    href: 'https://www.instagram.com/asif.biswas',
+  }
 ];
 
 const ContactCode = () => {

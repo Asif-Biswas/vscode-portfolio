@@ -26,15 +26,15 @@ const explorerItems = [
     icon: 'js_icon.svg',
   },
   {
-    name: 'articles.json',
-    path: '/articles',
-    icon: 'json_icon.svg',
+    name: 'settings.py',
+    path: '/settings',
+    icon: 'python.svg',
   },
-  {
-    name: 'github.md',
-    path: '/github',
-    icon: 'markdown_icon.svg',
-  },
+  // {
+  //   name: 'github.md',
+  //   path: '/github',
+  //   icon: 'markdown_icon.svg',
+  // },
 ];
 
 const Explorer = () => {
