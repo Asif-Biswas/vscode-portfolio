@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "name": "Cypress Dashboard",
-    "image": "/cypress-dashboard.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["python", "javascript", "django", "cypress", "chartjs", "github-actions"],
-    "demo": "https://cypress-html-report.herokuapp.com/"
+    "name": "Classified Data",
+    "image": "/classified-data.png",
+    "description": "User can post/find jobs from all over the world using this site. ",
+    "tags": ["react", "open-street-map", "python", "django", "api", "postgresql"],
+    "demo": "https://classified-ads.netlify.app/"
   },
   {
     "id": 2,
-    "name": "Classified Data",
-    "image": "/classified-data.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "open-street-map", "python", "django", "api"],
-    "demo": "https://classified-ads.netlify.app/"
+    "name": "Cypress Dashboard",
+    "image": "/cypress-dashboard.png",
+    "description": "A dashboard application to visualize test results in multiple grapgical formats. User can also run tests from the dashboard.",
+    "tags": ["python", "javascript", "django", "cypress", "chartjs", "github-actions"],
+    "demo": "https://cypress-html-report.herokuapp.com/"
   },
   {
     "id": 3,
     "name": "Vex Anime",
     "image": "/vexanime.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "description": "This site crawl another website anime video info and show them in this site. User can watch anime cartoon videos for free.",
     "tags": ["react", "python", "sqlite3", "beautifulsoup", "tailwind"],
     "demo": "https://vexanime.netlify.app/"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Instagram clone",
     "image": "/instagram.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "description": "In this site, user can get exactly the similar flavor of Instagram.",
     "tags": ["python", "django", "javascript", "css"],
     "source_code": "https://github.com/Asif-Biswas/instagram-clone",
     "demo": "https://asifbiswas.pythonanywhere.com"
@@ -36,22 +36,22 @@
     "id": 5,
     "name": "E-commerce Tracker",
     "image": "/aslpp.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "description": "This site is for tracking the price of a product in different e-commerce sites. Then visualize the price in a graph.",
     "tags": ["python", "django", "chartjs", "selenium", "beautifulsoup"]
   },
   {
     "id": 6,
     "name": "ICCS",
     "image": "/iccs.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "description": "An application to store information of the members of the political party. It was a demo application.",
     "tags": ["python", "react", "redux", "postgresql", "bootstrap"]
   },
   {
     "id": 7,
     "name": "Facebook clone",
     "image": "/facebook.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "From adding friends to posting status, this site has all the features of Facebook.",
+    "tags": ["python", "react", "postgresql", "css", "api"],
     "source_code": "https://github.com/Asif-Biswas/facebook-clone-backend",
     "demo": "https://fb-cln.herokuapp.com/"
   },
@@ -59,8 +59,8 @@
     "id": 8,
     "name": "Youtube clone",
     "image": "/youtube.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "This site is a clone of Youtube. User can watch videos, comment, like, dislike, and subscribe to channels.",
+    "tags": ["python", "django", "javascript", "css", "html"],
     "source_code": "https://github.com/Asif-Biswas/youtube-clone",
     "demo": "https://youtube-cln.herokuapp.com/"
   },
@@ -68,8 +68,8 @@
     "id": 9,
     "name": "BBC Newspaper",
     "image": "/bbc.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "This site is a clone of BBC newspaper. User can read news and admin can easily add news.",
+    "tags": ["python", "django", "css", "html"],
     "source_code": "https://github.com/Asif-Biswas/BBC-Newspaper-clone",
     "demo": "https://bbc-cln.herokuapp.com/"
   },
@@ -77,8 +77,8 @@
     "id": 10,
     "name": "OrangeRed",
     "image": "/orangered.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "An e-commerce site where user can buy products, add to cart, remove from cart, and checkout.",
+    "tags": ["django", "react", "redux", "sqlite3", "drf", "css"],
     "source_code": "https://github.com/Asif-Biswas/orangered-e-commerce-frontend",
     "demo": "https://orangered.herokuapp.com/"
   },
@@ -86,8 +86,8 @@
     "id": 11,
     "name": "FB Home Page",
     "image": "/facebook.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "This site is a clone of Facebook home page.",
+    "tags": ["react", "css", "html"],
     "source_code": "https://github.com/Asif-Biswas/fb-home-page-design",
     "demo": "https://fb-home.herokuapp.com"
   },
@@ -95,16 +95,16 @@
     "id": 12,
     "name": "Cypress Cucumber",
     "image": "/cypress.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "Wrote e2e test cases using cypress and cucumber for Cart.com website.",
+    "tags": ["javascript", "cypress", "cucumber"],
     "source_code": "https://github.com/Asif-Biswas/cypress-cucumber-automation"
   },
   {
     "id": 13,
     "name": "Wine tour",
     "image": "/winetour.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "This application is for wine tour company. They use this application to manage their tours.",
+    "tags": ["laravel", "react", "google-map", "tailwind"],
     "source_code": "https://github.com/shahriarmehedi/tour-planner-react",
     "demo": "https://lekkerwinetours.com/"
   },
@@ -112,8 +112,8 @@
     "id": 14,
     "name": "Tour de Globe",
     "image": "/tourde.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"],
+    "description": "Made psd to html for a travel agency.",
+    "tags": ["html", "css"],
     "source_code": "https://github.com/Asif-Biswas/tourdeglobe",
     "demo": "https://asif-biswas.github.io/tourdeglobe/take_me_home.html"
   },
@@ -121,7 +121,7 @@
     "id": 14,
     "name": "BPDB Notice",
     "image": "/bpdb.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["python", "react", "redux", "postgresql", "bootstrap"]
+    "description": "This site is for BPDB. They use this site to publish notices and updates of their software.",
+    "tags": ["python", "django", "javascript", "css", "html"]
   }
 ]

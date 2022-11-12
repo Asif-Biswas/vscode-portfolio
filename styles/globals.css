@@ -195,3 +195,31 @@
 .bootstrap:hover {
   background: rgba(255, 0, 230, 0.25);
 }
+
+.html {
+  border: 1px solid rgb(255, 0, 0);
+}
+.html:hover {
+  background: rgba(255, 0, 0, 0.25);
+}
+
+.drf {
+  border: 1px solid rgb(170, 30, 30);
+}
+.drf:hover {
+  background: rgba(170, 30, 30, 0.25);
+}
+
+.laravel {
+  border: 1px solid rgb(27, 157, 20);
+}
+.laravel:hover {
+  background: rgba(27, 157, 20, 0.25);
+}
+
+.google-map {
+  border: 1px solid rgb(255, 0, 170);
+}
+.google-map:hover {
+  background: rgba(255, 0, 170, 0.25);
+}
