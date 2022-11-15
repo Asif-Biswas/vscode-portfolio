@@ -12,11 +12,12 @@ const AboutPage = () => {
       'Database',
       'Web scraping',
       'E2e testing',
-      'Running'
+      'Python',
+      'JavaScript',
     ],
     datasets: [{
       label: 'Skills',
-      data: [25, 80, 75, 50, 70, 40, 40],
+      data: [45, 80, 75, 60, 70, 40, 85, 80],
       fill: true,
       backgroundColor: 'rgba(255, 99, 132, 0.2)',
       borderColor: 'rgb(255, 99, 132)',
@@ -26,7 +27,7 @@ const AboutPage = () => {
       pointHoverBorderColor: 'rgb(255, 99, 132)'
     }, {
       label: 'Interest',
-      data: [95, 65, 80, 60, 85, 30, 100],
+      data: [95, 65, 90, 75, 85, 30, 95, 80],
       fill: true,
       backgroundColor: 'rgba(54, 162, 235, 0.2)',
       borderColor: 'rgb(54, 162, 235)',
