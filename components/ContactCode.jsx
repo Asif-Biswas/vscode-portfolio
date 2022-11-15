@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'asif-biswas.github.io/asif',
-    href: 'https://asif-biswas.github.io/asif',
+    link: 'asif-biswas.vercel.app',
+    href: 'https://asif-biswas.vercel.app',
   },
   {
     social: 'email',
