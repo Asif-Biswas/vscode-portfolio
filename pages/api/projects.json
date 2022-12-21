@@ -5,15 +5,15 @@
     "image": "/classified-data.png",
     "description": "User can post/find jobs from all over the world using this site. ",
     "tags": ["react", "open-street-map", "python", "django", "api", "postgresql"],
-    "demo": "https://classified-ads.netlify.app/"
+    "demo": "https://cladata.netlify.app/"
   },
   {
     "id": 2,
     "name": "Cypress Dashboard",
     "image": "/cypress-dashboard.png",
-    "description": "A dashboard application to visualize test results in multiple grapgical formats. User can also run tests from the dashboard.",
+    "description": "A dashboard application to visualize test results in multiple graphical formats. User can also run tests from the dashboard.",
     "tags": ["python", "javascript", "django", "cypress", "chartjs", "github-actions"],
-    "demo": "https://cypress-html-report.herokuapp.com/"
+    "demo": "http://cypress-dashboard.onrender.com/"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "image": "/vexanime.png",
     "description": "This site crawl another website anime video info and show them in this site. User can watch anime cartoon videos for free.",
     "tags": ["react", "python", "sqlite3", "beautifulsoup", "tailwind"],
-    "demo": "https://vexanime.netlify.app/"
+    "demo": "https://vex-anime.netlify.app/"
   },
   {
     "id": 4,
